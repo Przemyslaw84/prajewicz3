@@ -1,9 +1,10 @@
 asd
 123
-<<<<<<< HEAD
+ 
 asdasd
-=======
+ 
 asdasd
 asdasd
 asdasdasdasd
->>>>>>> origin/master
+ 
+ttt
